@@ -1,12 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-body {
-    background-color: #081221;
-}
 
-h1:hover {
-    color: orange;
-    user-select: none;
+body {
+    background-color: #09101c;
 }
 
 h1 {
@@ -14,42 +10,4 @@ h1 {
     text-align: center;
     font-size: 55px;
     font-family: 'Roboto';
-}
-
-h2 {
-    color: white;
-    text-align: center;
-    font-size: 50px;
-    font-family: 'Roboto';
-}
-
-h3 {
-    color: white;
-    font-size: 35px;
-    text-align: center;
-    font-family: 'Roboto';
-}
-
-a {
-    color: #3271a8;
-    font-size: 35px;
-    text-align: center;
-    font-family: 'Roboto';
-}
-
-hr {
-    color: orange;
-    border: solid 4px orange;
-}
-
-.nice_looking_rectangle {
-    position: fixed;
-    top: 60%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    height: 450px;
-    width: 850px;
-    border-radius: 15%;
-    border: solid 3px white;
-    background-color: #0b142b;
-}
+} 
